@@ -30,7 +30,7 @@ public class Frame extends javax.swing.JFrame {  //myframe은 jframe과 같다
      n=Integer.parseInt(s);
     }
     catch(NumberFormatException ex){
-     t.setText("숫자만 쳐!");
+     t.setText("숫자만 쳐ㅋㅋㅋㅋㅋㅋㅋㅋ!");
      return;
     }
     th.setNumber(n);
